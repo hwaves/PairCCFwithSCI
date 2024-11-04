@@ -63,25 +63,25 @@
  |4|TRETS|ACM Transactions on Reconfigurable Technology and Systems|ACM|1936-7406|[DBLP](http://dblp.uni-trier.de/db/journals/trets/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/83882)|Q4 (计算机科学)
  |5|TVLSI|IEEE Transactions on Very Large Scale Integration (VLSI) Systems|IEEE|1063-8210|[DBLP](http://dblp.uni-trier.de/db/journals/tvlsi/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/82249)|Q2 (工程技术)
  |6|JPDC|Journal of Parallel and Distributed Computing|Elsevier|0743-7315|[DBLP](http://dblp.uni-trier.de/db/journals/jpdc/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/79938)|Q3 (计算机科学)
- |7|JSA|Journal of Systems Architecture: Embedded Software Design|Elsevier| |[DBLP](http://dblp.uni-trier.de/db/journals/jsa/)| 
+ |7|JSA|Journal of Systems Architecture: Embedded Software Design|Elsevier|1383-7621|[DBLP](http://dblp.uni-trier.de/db/journals/jsa/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/248848)|Q2 (计算机科学)
  |8| |Parallel Computing|Elsevier|0167-8191|[DBLP](https://dblp.org/db/journals/pc/index.html) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/87819)|Q4 (计算机科学)
- |9| |Performance Evaluation: An International Journal|Elsevier| |[DBLP](https://dblp.org/db/journals/pe/index.html)| 
+ |9| |Performance Evaluation: An International Journal|Elsevier|0166-5316|[DBLP](https://dblp.org/db/journals/pe/index.html) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/254327)|Q4 (计算机科学)
 
 ### C类 (14个)
 | 序号        | 刊物简称  |  刊物全称     | 出版社 | ISSN | 网址      | 中科院分区 |
 | :----------- | :------- | :------- | :----------- | :----------- | :----------- | :----------- |
  |1|JETC|ACM Journal on Emerging Technologies in Computing Systems|ACM|1550-4832|[DBLP](http://dblp.uni-trier.de/db/journals/jetc/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/84366)|Q4 (计算机科学)
- |2| |Concurrency and Computation: Practice and Experience|Wiley| |[DBLP](http://dblp.uni-trier.de/db/journals/concurrency/)| 
+ |2| |Concurrency and Computation: Practice and Experience|Wiley|1532-0626|[DBLP](http://dblp.uni-trier.de/db/journals/concurrency/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/255333)|Q4 (计算机科学)
  |3|DC|Distributed Computing|Springer|0178-2770|[DBLP](http://dblp.uni-trier.de/db/journals/dc/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/88316)|Q4 (计算机科学)
- |4|FGCS|Future Generation Computer Systems|Elsevier| |[DBLP](http://dblp.uni-trier.de/db/journals/fgcs/)| 
+ |4|FGCS|Future Generation Computer Systems|Elsevier|0167-739X|[DBLP](http://dblp.uni-trier.de/db/journals/fgcs/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/248195)|Q2 (计算机科学)
  |5|TCC|IEEE Transactions on Cloud Computing|IEEE|2168-7161|[DBLP](https://dblp.uni-trier.de/db/journals/tcc/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/77570)|Q2 (计算机科学)
- |6|Integration|Integration, the VLSI Journal|Elsevier| |[DBLP](http://dblp.uni-trier.de/db/journals/integration/)| 
+ |6|Integration|Integration, the VLSI Journal|Elsevier| |[DBLP](http://dblp.uni-trier.de/db/journals/integration/)| 未收录
  |7|JETTA|Journal of Electronic Testing-Theory and Applications|Springer|0923-8174|[DBLP](https://dblp.org/db/journals/et/index.html) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/90401)|Q4 (工程技术)
  |8|JGC|Journal of Grid computing|Springer|1570-7873|[DBLP](https://dblp.uni-trier.de/db/journals/grid/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/78132)|Q2 (计算机科学)
  |10|RTS|Real-Time Systems|Springer|0922-6443|[DBLP](http://dblp.uni-trier.de/db/journals/rts/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/88244)|Q4 (计算机科学)
- |11|TJSC|The Journal of Supercomputing|Springer| |[DBLP](http://dblp.uni-trier.de/db/journals/tjs/)| 
- |12|TCASI|IEEE Transactions on Circuits and Systems I: Regular Papers|IEEE| |[DBLP](https://dblp.org/db/journals/tcasI/index.html)| 
- |13|CCF-THPC| CCF Transactions on High Performance Computing|CCF| |[DBLP](https://dblp.org/db/journals/ccfthpc/index.html)| 
+ |11|TJSC|The Journal of Supercomputing|Springer|0920-8542|[DBLP](http://dblp.uni-trier.de/db/journals/tjs/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/253401)|Q4 (计算机科学)
+ |12|TCASI|IEEE Transactions on Circuits and Systems I: Regular Papers|IEEE|1549-8328|[DBLP](https://dblp.org/db/journals/tcasI/index.html)| 未收录
+ |13|CCF-THPC| CCF Transactions on High Performance Computing|CCF|2524-4922|[DBLP](https://dblp.org/db/journals/ccfthpc/index.html)| 未收录
  |14|TSUSC|IEEE Transactions on Sustainable Computing|IEEE|2377-3782|[DBLP](https://dblp.org/db/journals/tsusc/index.html) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/79732)|Q3 (计算机科学)
 
 
