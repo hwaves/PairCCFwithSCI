@@ -413,7 +413,7 @@ _Updated on March 22, 2025_
  |4|IWC|Interacting with Computers |Oxford University Press| 0953-5438 | [DBLP](http://dblp.uni-trier.de/db/journals/iwc/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/XPgkdmaB1Z)   |Q4 (计算机科学)
  |5|IJHCI|International Journal of Human-Computer Interaction| Taylor & Francis| 1044-7318 | [DBLP](http://dblp.uni-trier.de/db/journals/ijhci/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/lGgry6R52m) |Q3 (计算机科学)
  |6|UMUAI|User Modeling and User-Adapted Interaction|Springer| 0924-1868 | [DBLP](http://dblp.uni-trier.de/db/journals/umuai/) / [fenqubiao](https://advanced.fenqubiao.com/Journal/Detail/oxgGD80a1O) |Q2 (计算机科学)
- |7|TSMC|IEEE Transactions on Systems, Man, and Cybernetics: Systems IEEE||  |                                                                                                                         | [DBLP](https://dblp.org/db/journals/tsmc/ts) | 
+ |7|TSMC|IEEE Transactions on Systems, Man, and Cybernetics: Systems |IEEE| | [DBLP](https://dblp.org/db/journals/tsmc/ts) | 
 
 ### C类 (4个)
 | 序号        | 刊物简称  |  刊物全称     | 出版社 | ISSN | 网址      | 中科院分区 |
